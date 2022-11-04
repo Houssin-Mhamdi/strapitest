@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "logoheaders",
+  "info": {
+    "singularName": "logoheader",
+    "pluralName": "logoheaders",
+    "displayName": "logoheader"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logo": {
+      "type": "string"
+    },
+    "subtitlelogo": {
+      "type": "string"
+    }
+  }
+}

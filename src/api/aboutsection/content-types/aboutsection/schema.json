@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutsections",
+  "info": {
+    "singularName": "aboutsection",
+    "pluralName": "aboutsections",
+    "displayName": "aboutsection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "smalltext": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
